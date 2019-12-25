@@ -56,7 +56,7 @@ define('URL_SERVER','/home/u990977472/public_html/usuarios');
  */
 define('DB_TYPE', 'mysql');
 define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'u990977472_paya');
-define('DB_USER', 'root');
-define('DB_PASS', '123456789');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8');
